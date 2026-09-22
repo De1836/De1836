@@ -9,6 +9,7 @@ I'm a hobbyist coder and maker (planning to study CS and DT)
 * I'm trying to learn Rust and Backend
 * I use arch (btw)
 * Not too good at frontend
+* I make a lot of stuff for mac since my school uses mac
 
 ![](https://github-readme-stats.vercel.app/api?username=De1836&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=De1836&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
